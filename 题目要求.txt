@@ -1,0 +1,5 @@
+1.使用FileInputStream FileOutputStream实现文件复制
+
+2.使用ServerSocket Socket实现网络数据传递
+
+3.使用HttpUrlConnection获取网页数据
